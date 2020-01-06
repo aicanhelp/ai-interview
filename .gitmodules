@@ -1,3 +1,6 @@
 [submodule "resources/front-end"]
 	path = resources/front-end
 	url = https://github.com/helloqingfeng/Awsome-Front-End-learning-resource.git
+[submodule "resources/fullstack"]
+	path = resources/fullstack
+	url = https://github.com/frank-lam/fullstack-tutorial.git
