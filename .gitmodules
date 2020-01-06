@@ -4,3 +4,18 @@
 [submodule "resources/fullstack"]
 	path = resources/fullstack
 	url = https://github.com/frank-lam/fullstack-tutorial.git
+[submodule "resources/leetcode"]
+	path = resources/leetcode
+	url = https://github.com/azl397985856/leetcode.git
+[submodule "resources/CS-Notes"]
+	path = resources/CS-Notes
+	url = https://github.com/CyC2018/CS-Notes.git
+[submodule "resources/interview"]
+	path = resources/interview
+	url = https://github.com/apachecn/Interview.git
+[submodule "resources/dlqa500"]
+	path = resources/dlqa500
+	url = https://github.com/fengdu78/DeepLearning-500-questions.git
+[submodule "resources/ailearning"]
+	path = resources/ailearning
+	url = https://github.com/apachecn/AiLearning.git
