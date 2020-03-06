@@ -19,3 +19,6 @@
 [submodule "resources/ailearning"]
 	path = resources/ailearning
 	url = https://github.com/apachecn/AiLearning.git
+[submodule "resources/coding"]
+	path = resources/coding
+	url = https://github.com/doocs/coding-interview.git
