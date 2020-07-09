@@ -22,3 +22,6 @@
 [submodule "resources/coding"]
 	path = resources/coding
 	url = https://github.com/doocs/coding-interview.git
+[submodule "resources/DataMiningAlgorithm"]
+	path = resources/DataMiningAlgorithm
+	url = https://github.com/linyiqun/DataMiningAlgorithm.git
