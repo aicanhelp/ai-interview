@@ -25,3 +25,9 @@
 [submodule "resources/DataMiningAlgorithm"]
 	path = resources/DataMiningAlgorithm
 	url = https://github.com/linyiqun/DataMiningAlgorithm.git
+[submodule "resources/Algorithm_Interview_Notes-Chinese"]
+	path = resources/Algorithm_Interview_Notes-Chinese
+	url = https://github.com/DarLiner/Algorithm_Interview_Notes-Chinese.git
+[submodule "resources/fucking-algorithm"]
+	path = resources/fucking-algorithm
+	url = https://gitee.com/aimo-ailearn/fucking-algorithm.git
