@@ -31,3 +31,6 @@
 [submodule "resources/fucking-algorithm"]
 	path = resources/fucking-algorithm
 	url = https://gitee.com/aimo-ailearn/fucking-algorithm.git
+[submodule "resources/LeetCode-go"]
+	path = resources/LeetCode-go
+	url = https://github.com/halfrost/LeetCode-Go.git
